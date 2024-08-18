@@ -38,9 +38,10 @@ public sealed class Stamper
     {
         ArgumentNullException.ThrowIfNull(validationResults);
         var resultArr = validationResults.ToDictionary().Values.ToArray();
-        var resultMessages = new string[resultArr.Length];
+        var length = resultArr.Length;
+        var resultMessages = new string[length];
 
-        for (int i = 0; i < resultArr.Length; i++)
+        for (int i = 0; i < length; i++)
         {
             resultMessages[i] = resultArr[i][0];
         }

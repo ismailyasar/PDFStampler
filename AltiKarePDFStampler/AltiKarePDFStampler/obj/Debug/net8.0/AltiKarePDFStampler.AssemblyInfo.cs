@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AltiKarePDFStampler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d683a8c7a0eefb6d29512c69873eef1287e11181")]
 [assembly: System.Reflection.AssemblyProductAttribute("AltiKarePDFStampler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AltiKarePDFStampler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj": {}
+    "/Users/ismailyasar/Desktop/Projects/PDFStampler/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj": {}
   },
   "projects": {
-    "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj": {
+    "/Users/ismailyasar/Desktop/Projects/PDFStampler/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj",
+        "projectUniqueName": "/Users/ismailyasar/Desktop/Projects/PDFStampler/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj",
         "projectName": "AltiKarePDFStampler",
-        "projectPath": "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj",
+        "projectPath": "/Users/ismailyasar/Desktop/Projects/PDFStampler/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj",
         "packagesPath": "/Users/ismailyasar/.nuget/packages/",
-        "outputPath": "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/obj/",
+        "outputPath": "/Users/ismailyasar/Desktop/Projects/PDFStampler/AltiKarePDFStampler/AltiKarePDFStampler/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ismailyasar/.nuget/NuGet/NuGet.Config"
