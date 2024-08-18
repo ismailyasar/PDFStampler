@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj": {}
+  },
+  "projects": {
+    "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj",
+        "projectName": "AltiKarePDFStampler",
+        "projectPath": "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/AltiKarePDFStampler.csproj",
+        "packagesPath": "/Users/ismailyasar/.nuget/packages/",
+        "outputPath": "/Users/ismailyasar/Desktop/Projects/External/AltiKarePDFStampler/AltiKarePDFStampler/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ismailyasar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "GemBox.Pdf": {
+              "target": "Package",
+              "version": "[17.0.1438, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
